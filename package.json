@@ -1,0 +1,20 @@
+{
+  "name": "regrip-bidding",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000r\u0000e\u0000g\u0000r\u0000i\u0000p\u0000-\u0000b\u0000i\u0000d\u0000d\u0000i\u0000n\u0000g\u0000-\u0000s\u0000y\u0000s\u0000t\u0000e\u0000m\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/mahendra8-2577393/regrip-bidding-system#readme",
+  "bugs": {
+    "url": "https://github.com/mahendra8-2577393/regrip-bidding-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahendra8-2577393/regrip-bidding-system.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
